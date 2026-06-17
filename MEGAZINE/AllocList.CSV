@@ -1,0 +1,8 @@
+Input2_07;I2.07;BIT;Sensor
+Output0_00;O0.00;BIT;avanço
+TimerStatus0;T0;BIT;Temp 0
+Flag0_00;F0.00;BIT;memoria 0
+Output0_02;O0.02;BIT;Retorno
+Output0_01;O0.01;BIT;Estampa
+TimerStatus1;T1;BIT;temp 1
+Flag0_01;F0.01;BIT;memoria 1

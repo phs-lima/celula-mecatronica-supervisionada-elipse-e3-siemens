@@ -1,0 +1,12 @@
+posição, programação 
+
+1,DriverOPC1.GrupoOPC1.I27.Value=false and DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.I00.Value=true
+2,DriverOPC1.GrupoOPC1.I27.Value=true and DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.I00.Value=true
+3,DriverOPC1.GrupoOPC1.I03.Value=true and DriverOPC1.GrupoOPC1.O04.Value=true and DriverOPC1.GrupoOPC1.I00.Value=true
+4,DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.O04.Value=true and DriverOPC1.GrupoOPC1.I00.Value=true
+5,DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.O04.Value=true and DriverOPC1.GrupoOPC1.I01.Value=true
+6,DriverOPC1.GrupoOPC1.I03.Value=true and DriverOPC1.GrupoOPC1.O04.Value=false and DriverOPC1.GrupoOPC1.I01.Value=true
+7,DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.O04.Value=false and DriverOPC1.GrupoOPC1.I01.Value=true
+8,DriverOPC1.GrupoOPC1.I02.Value=true and DriverOPC1.GrupoOPC1.O04.Value=false and DriverOPC1.GrupoOPC1.I00.Value=true
+9,DriverOPC1.GrupoOPC1.I03.Value=true and DriverOPC1.GrupoOPC1.O04.Value=false and DriverOPC1.GrupoOPC1.I00.Value=true
+10,DriverOPC1.GrupoOPC1.I03.Value=true and DriverOPC1.GrupoOPC1.O04.Value=false and DriverOPC1.GrupoOPC1.I01.Value=true
